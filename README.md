@@ -12,6 +12,10 @@ const kugi = {
     },  
   },
   stalledProjects: {
+    AtariFont: {
+      link: 'https://github.com/kugimiya/atarist-font-cyrillic',
+      description: 'custom cyrillic charset in atari aestetic',
+    },
     Brodieja: {
       link: 'https://github.com/kugimiya/brodieja',
       description: 'anonimous image board written in PHP',
