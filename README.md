@@ -11,26 +11,14 @@ const kugi = {
       description: 'list of tools for quick service prototyping',
     },  
   },
-  stalledProjects: {
+  favoriteProjects: {
     AtariFont: {
       link: 'https://github.com/kugimiya/atarist-font-cyrillic',
       description: 'custom cyrillic charset in atari aestetic',
     },
-    Brodieja: {
-      link: 'https://github.com/kugimiya/brodieja',
-      description: 'anonimous image board written in PHP',
-    },
     LongClick: {
       link: 'https://github.com/kugimiya/jquery.longclick.plugin',
       description: 'jQuery plugin for long tap functionality',
-    },
-    kbot: {
-      link: 'https://github.com/kugimiya/kbot',
-      description: 'yet another discord bot, that prints random stuff',
-    },
-    kugicsdock: {
-      link: 'https://github.com/kugimiya/kugicsdock',
-      description: 'My docker containers stack for PHP development ',
     },
   }
 };
