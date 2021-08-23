@@ -1,5 +1,7 @@
 ## Hi, I'm `kugimiya` (also known as `kugichka` or Andrew Goncharov, kugi@kugi.club)
 
+![codewars_rank](https://www.codewars.com/users/kugimiya/badges/large)
+
 ```typescript
 const kugi = {
   pronouns: ['he', 'him'],
