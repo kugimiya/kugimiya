@@ -5,6 +5,7 @@
 ```typescript
 const kugi = {
   pronouns: ['he', 'him'],
+  job: 'Senior React @ https://mish.design',
   languages: [JavaScript, TypeScript, PHP, Python, C],
   focusedAt: [Frontend, Node.MicroServices, Docker, LiveCoding],
   currentProjects: {
