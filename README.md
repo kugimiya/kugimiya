@@ -15,15 +15,15 @@ const kugi = {
      ],
   },
   finishedProjects: {
-    codeleaf-sdk: [
+    'codeleaf-sdk': [
       'https://github.com/codeleaf-sdk/core',
       'list of tools for quick service prototyping',
     ],
-    leafk-bot: [
+    'leafk-bot': [
       'https://github.com/kugimiya/leafkbot-framework',
       'library for building bots for minecraft',
     ]
-    cyrillic-atarifont: [
+    'cyrillic-atarifont': [
       'https://github.com/kugimiya/atarist-font-cyrillic',
       'custom cyrillic charset in atari aestetic',
     ],
