@@ -6,23 +6,31 @@
 const kugi = {
   pronouns: ['he', 'him'],
   job: 'Senior React @ https://mish.design',
-  languages: [JavaScript, TypeScript, PHP, Python, C],
+  languages: [TypeScript, JavaScript, PHP, Python, C],
   focusedAt: [Frontend, Node.MicroServices, Docker, LiveCoding],
   currentProjects: {
-    CodeLeafSdk: {
-      link: 'https://github.com/codeleaf-sdk/core',
-      description: 'list of tools for quick service prototyping',
-    },  
+      nosorter: [
+        'https://github.com/nesorter',
+        'internet-radio streaming solution',
+     ],
   },
-  favoriteProjects: {
-    AtariFont: {
-      link: 'https://github.com/kugimiya/atarist-font-cyrillic',
-      description: 'custom cyrillic charset in atari aestetic',
-    },
-    LongClick: {
-      link: 'https://github.com/kugimiya/jquery.longclick.plugin',
-      description: 'jQuery plugin for long tap functionality',
-    },
+  finishedProjects: {
+    codeleaf-sdk: [
+      'https://github.com/codeleaf-sdk/core',
+      'list of tools for quick service prototyping',
+    ],
+    leafk-bot: [
+      'https://github.com/kugimiya/leafkbot-framework',
+      'library for building bots for minecraft',
+    ]
+    cyrillic-atarifont: [
+      'https://github.com/kugimiya/atarist-font-cyrillic',
+      'custom cyrillic charset in atari aestetic',
+    ],
+    longtap: [
+      'https://github.com/kugimiya/jquery.longclick.plugin',
+      'jQuery plugin for long tap functionality',
+    ],
   }
 };
 ```
