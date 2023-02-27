@@ -1,5 +1,11 @@
 ## Hi, I'm `kugimiya` (also known as `kugichka` or Andrew Goncharov, kugi@kugi.club)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew Goncharov========================================================================================================================================Frontend-dev & enthusiast-------------------------At the moment I have been studying programming for more than 8 years, I have been constantly developing software for more than 6 years. Basically my software is the Web.* 🌍  I'm based in Ulyanovsk, Russia* 🖥️  See my portfolio at [my personal site](http://kugi.club)* ✉️  You can contact me at [kugi@kugi.club](mailto:kugi@kugi.club)* 🤝  I'm open to collaborating on NodeJS-libraries, NLP, Cryptography (not block-chains!)* ⚡  Open to job offers :3
+* At the moment I have been studying programming for more than 8 years, I have been constantly developing software for more than 6 years.
+Basically my software is the Web.
+* 🌍  I'm based in Ulyanovsk, Russia
+* 🖥️  See my portfolio at [my personal site](http://kugi.club)
+* ✉️  You can contact me at [kugi@kugi.club](mailto:kugi@kugi.club)
+* 🤝  I'm open to collaborating on NodeJS-libraries, NLP, Cryptography (not block-chains!)
+* ⚡  Open to job offers :3
 
 ### Skills
 
